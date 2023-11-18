@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '^7did))#lkr=$2y7_l!0y#tj_fc%g-#2+=3ew1b@f*lr-18t03'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 CART_SESSION_ID = 'cart'
 SESSION_COOKIE_AGE = 86400
